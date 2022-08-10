@@ -1,8 +1,7 @@
 {
-    "name": "Discord Experiments",
-    "description": "Enables the Discord experiments.",
-    "version": "1.1",
-    "author": "acendvgnt",
-    "consent": "false",
-    "license": "MIT"
+  "name": "Discord Experiments",
+  "version": "1.0",
+  "description": "Enables the Discord experiments tab",
+  "author": "acendvgnt",
+  "license": "MIT"
 }
